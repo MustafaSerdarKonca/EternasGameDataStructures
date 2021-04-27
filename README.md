@@ -25,6 +25,7 @@ The wooden sticks in the game will be implemented using the Stack data structure
 When the game is over, the player will be listed on the screen, if there is a winner, or the draw status.
 
 Sample Outputs:
+
 ![1](https://user-images.githubusercontent.com/55615575/116242052-360d1400-a76e-11eb-97d6-b547886ac8f1.PNG)
 ![2](https://user-images.githubusercontent.com/55615575/116242090-3e654f00-a76e-11eb-927e-a977396f2f9b.PNG)
 ![4](https://user-images.githubusercontent.com/55615575/116242103-432a0300-a76e-11eb-9d8f-1fecb066b409.PNG)
