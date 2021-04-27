@@ -1,4 +1,4 @@
-# EternasGameDataStructures
+# Eternas Game
 
 ![pic2351985](https://user-images.githubusercontent.com/55615575/116242004-2988bb80-a76e-11eb-854c-57109545a0aa.jpg)
 
